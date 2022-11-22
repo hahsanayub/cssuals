@@ -11,7 +11,7 @@ or minified version
 
 
 or download from url version v1.0.0 and place css file in your project.
-https://github.com/hahsanayub/cssuals/archive/refs/tags/v1.0.0.zip
+https://github.com/hahsanayub/cssuals/archive/refs/tags/v1.0.1.zip
 ```<link rel="stylesheet" href="./cssuals.css">```
 or minified version
 
