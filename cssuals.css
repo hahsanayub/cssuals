@@ -9285,6 +9285,414 @@
 
 
 
+/* width in percentage */
+.wd-pr-0 {
+    width: var(--pr-0);
+}
+
+.wd-pr-1 {
+    width: var(--pr-1);
+}
+
+.wd-pr-2 {
+    width: var(--pr-2);
+}
+
+.wd-pr-3 {
+    width: var(--pr-3);
+}
+
+.wd-pr-4 {
+    width: var(--pr-4);
+}
+
+.wd-pr-5 {
+    width: var(--pr-5);
+}
+
+.wd-pr-6 {
+    width: var(--pr-6);
+}
+
+.wd-pr-7 {
+    width: var(--pr-7);
+}
+
+.wd-pr-8 {
+    width: var(--pr-8);
+}
+
+.wd-pr-9 {
+    width: var(--pr-9);
+}
+
+.wd-pr-10 {
+    width: var(--pr-10);
+}
+
+.wd-pr-11 {
+    width: var(--pr-11);
+}
+
+.wd-pr-12 {
+    width: var(--pr-12);
+}
+
+.wd-pr-13 {
+    width: var(--pr-13);
+}
+
+.wd-pr-14 {
+    width: var(--pr-14);
+}
+
+.wd-pr-15 {
+    width: var(--pr-15);
+}
+
+.wd-pr-16 {
+    width: var(--pr-16);
+}
+
+.wd-pr-17 {
+    width: var(--pr-17);
+}
+
+.wd-pr-18 {
+    width: var(--pr-18);
+}
+
+.wd-pr-19 {
+    width: var(--pr-19);
+}
+
+.wd-pr-20 {
+    width: var(--pr-20);
+}
+
+.wd-pr-21 {
+    width: var(--pr-21);
+}
+
+.wd-pr-22 {
+    width: var(--pr-22);
+}
+
+.wd-pr-23 {
+    width: var(--pr-23);
+}
+
+.wd-pr-24 {
+    width: var(--pr-24);
+}
+
+.wd-pr-25 {
+    width: var(--pr-25);
+}
+
+.wd-pr-26 {
+    width: var(--pr-26);
+}
+
+.wd-pr-27 {
+    width: var(--pr-27);
+}
+
+.wd-pr-28 {
+    width: var(--pr-28);
+}
+
+.wd-pr-29 {
+    width: var(--pr-29);
+}
+
+.wd-pr-30 {
+    width: var(--pr-30);
+}
+
+.wd-pr-31 {
+    width: var(--pr-31);
+}
+
+.wd-pr-32 {
+    width: var(--pr-32);
+}
+
+.wd-pr-33 {
+    width: var(--pr-33);
+}
+
+.wd-pr-34 {
+    width: var(--pr-34);
+}
+
+.wd-pr-35 {
+    width: var(--pr-35);
+}
+
+.wd-pr-36 {
+    width: var(--pr-36);
+}
+
+.wd-pr-37 {
+    width: var(--pr-37);
+}
+
+.wd-pr-38 {
+    width: var(--pr-38);
+}
+
+.wd-pr-39 {
+    width: var(--pr-39);
+}
+
+.wd-pr-40 {
+    width: var(--pr-40);
+}
+
+.wd-pr-41 {
+    width: var(--pr-41);
+}
+
+.wd-pr-42 {
+    width: var(--pr-42);
+}
+
+.wd-pr-43 {
+    width: var(--pr-43);
+}
+
+.wd-pr-44 {
+    width: var(--pr-44);
+}
+
+.wd-pr-45 {
+    width: var(--pr-45);
+}
+
+.wd-pr-46 {
+    width: var(--pr-46);
+}
+
+.wd-pr-47 {
+    width: var(--pr-47);
+}
+
+.wd-pr-48 {
+    width: var(--pr-48);
+}
+
+.wd-pr-49 {
+    width: var(--pr-49);
+}
+
+.wd-pr-50 {
+    width: var(--pr-50);
+}
+
+.wd-pr-51 {
+    width: var(--pr-51);
+}
+
+.wd-pr-52 {
+    width: var(--pr-52);
+}
+
+.wd-pr-53 {
+    width: var(--pr-53);
+}
+
+.wd-pr-54 {
+    width: var(--pr-54);
+}
+
+.wd-pr-55 {
+    width: var(--pr-55);
+}
+
+.wd-pr-56 {
+    width: var(--pr-56);
+}
+
+.wd-pr-57 {
+    width: var(--pr-57);
+}
+
+.wd-pr-58 {
+    width: var(--pr-58);
+}
+
+.wd-pr-59 {
+    width: var(--pr-59);
+}
+
+.wd-pr-60 {
+    width: var(--pr-60);
+}
+
+.wd-pr-61 {
+    width: var(--pr-61);
+}
+
+.wd-pr-62 {
+    width: var(--pr-62);
+}
+
+.wd-pr-63 {
+    width: var(--pr-63);
+}
+
+.wd-pr-64 {
+    width: var(--pr-64);
+}
+
+.wd-pr-65 {
+    width: var(--pr-65);
+}
+
+.wd-pr-66 {
+    width: var(--pr-66);
+}
+
+.wd-pr-67 {
+    width: var(--pr-67);
+}
+
+.wd-pr-68 {
+    width: var(--pr-68);
+}
+
+.wd-pr-69 {
+    width: var(--pr-69);
+}
+
+.wd-pr-70 {
+    width: var(--pr-70);
+}
+
+.wd-pr-71 {
+    width: var(--pr-71);
+}
+
+.wd-pr-72 {
+    width: var(--pr-72);
+}
+
+.wd-pr-73 {
+    width: var(--pr-73);
+}
+
+.wd-pr-74 {
+    width: var(--pr-74);
+}
+
+.wd-pr-75 {
+    width: var(--pr-75);
+}
+
+.wd-pr-76 {
+    width: var(--pr-76);
+}
+
+.wd-pr-77 {
+    width: var(--pr-77);
+}
+
+.wd-pr-78 {
+    width: var(--pr-78);
+}
+
+.wd-pr-79 {
+    width: var(--pr-79);
+}
+
+.wd-pr-80 {
+    width: var(--pr-80);
+}
+
+.wd-pr-81 {
+    width: var(--pr-81);
+}
+
+.wd-pr-82 {
+    width: var(--pr-82);
+}
+
+.wd-pr-83 {
+    width: var(--pr-83);
+}
+
+.wd-pr-84 {
+    width: var(--pr-84);
+}
+
+.wd-pr-85 {
+    width: var(--pr-85);
+}
+
+.wd-pr-86 {
+    width: var(--pr-86);
+}
+
+.wd-pr-87 {
+    width: var(--pr-87);
+}
+
+.wd-pr-88 {
+    width: var(--pr-88);
+}
+
+.wd-pr-89 {
+    width: var(--pr-89);
+}
+
+.wd-pr-90 {
+    width: var(--pr-90);
+}
+
+.wd-pr-91 {
+    width: var(--pr-91);
+}
+
+.wd-pr-92 {
+    width: var(--pr-92);
+}
+
+.wd-pr-93 {
+    width: var(--pr-93);
+}
+
+.wd-pr-94 {
+    width: var(--pr-94);
+}
+
+.wd-pr-95 {
+    width: var(--pr-95);
+}
+
+.wd-pr-96 {
+    width: var(--pr-96);
+}
+
+.wd-pr-97 {
+    width: var(--pr-97);
+}
+
+.wd-pr-98 {
+    width: var(--pr-98);
+}
+
+.wd-pr-99 {
+    width: var(--pr-99);
+}
+
+.wd-pr-100 {
+    width: var(--pr-100);
+}
+
+
+
+
 /* common margin and padding properties */
 .m-a {
     margin: auto;
