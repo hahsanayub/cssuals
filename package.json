@@ -1,0 +1,23 @@
+{
+  "name": "cssuals",
+  "version": "1.0.0",
+  "description": "cssuals. v1.0.1",
+  "main": ".index.js",
+  "scripts": {
+    "test": "node ./test-cases/test",
+    "start": "nodemon ./test-cases/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hahsanayub/cssuals.git"
+  },
+  "author": "Muhammad Ahsan Ayub",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hahsanayub/cssuals/issues"
+  },
+  "homepage": "https://github.com/hahsanayub/cssuals#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
