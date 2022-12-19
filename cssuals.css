@@ -12959,6 +12959,430 @@
 
 
 
+/* font size in pixels */
+.ft-px-1 {
+    font-size: var(--px-1);
+}
+
+.ft-px-2 {
+    font-size: var(--px-2);
+}
+
+.ft-px-3 {
+    font-size: var(--px-3);
+}
+
+.ft-px-4 {
+    font-size: var(--px-4);
+}
+
+.ft-px-5 {
+    font-size: var(--px-5);
+}
+
+.ft-px-6 {
+    font-size: var(--px-6);
+}
+
+.ft-px-7 {
+    font-size: var(--px-7);
+}
+
+.ft-px-8 {
+    font-size: var(--px-8);
+}
+
+.ft-px-9 {
+    font-size: var(--px-9);
+}
+
+.ft-px-10 {
+    font-size: var(--px-10);
+}
+
+.ft-px-11 {
+    font-size: var(--px-11);
+}
+
+.ft-px-12 {
+    font-size: var(--px-12);
+}
+
+.ft-px-13 {
+    font-size: var(--px-13);
+}
+
+.ft-px-14 {
+    font-size: var(--px-14);
+}
+
+.ft-px-15 {
+    font-size: var(--px-15);
+}
+
+.ft-px-16 {
+    font-size: var(--px-16);
+}
+
+.ft-px-17 {
+    font-size: var(--px-17);
+}
+
+.ft-px-18 {
+    font-size: var(--px-18);
+}
+
+.ft-px-19 {
+    font-size: var(--px-19);
+}
+
+.ft-px-20 {
+    font-size: var(--px-20);
+}
+
+.ft-px-21 {
+    font-size: var(--px-21);
+}
+
+.ft-px-22 {
+    font-size: var(--px-22);
+}
+
+.ft-px-23 {
+    font-size: var(--px-23);
+}
+
+.ft-px-24 {
+    font-size: var(--px-24);
+}
+
+.ft-px-25 {
+    font-size: var(--px-25);
+}
+
+.ft-px-26 {
+    font-size: var(--px-26);
+}
+
+.ft-px-27 {
+    font-size: var(--px-27);
+}
+
+.ft-px-28 {
+    font-size: var(--px-28);
+}
+
+.ft-px-29 {
+    font-size: var(--px-29);
+}
+
+.ft-px-30 {
+    font-size: var(--px-30);
+}
+
+.ft-px-31 {
+    font-size: var(--px-31);
+}
+
+.ft-px-32 {
+    font-size: var(--px-32);
+}
+
+.ft-px-33 {
+    font-size: var(--px-33);
+}
+
+.ft-px-34 {
+    font-size: var(--px-34);
+}
+
+.ft-px-35 {
+    font-size: var(--px-35);
+}
+
+.ft-px-36 {
+    font-size: var(--px-36);
+}
+
+.ft-px-37 {
+    font-size: var(--px-37);
+}
+
+.ft-px-38 {
+    font-size: var(--px-38);
+}
+
+.ft-px-39 {
+    font-size: var(--px-39);
+}
+
+.ft-px-40 {
+    font-size: var(--px-40);
+}
+
+.ft-px-41 {
+    font-size: var(--px-41);
+}
+
+.ft-px-42 {
+    font-size: var(--px-42);
+}
+
+.ft-px-43 {
+    font-size: var(--px-43);
+}
+
+.ft-px-44 {
+    font-size: var(--px-44);
+}
+
+.ft-px-45 {
+    font-size: var(--px-45);
+}
+
+.ft-px-46 {
+    font-size: var(--px-46);
+}
+
+.ft-px-47 {
+    font-size: var(--px-47);
+}
+
+.ft-px-48 {
+    font-size: var(--px-48);
+}
+
+.ft-px-49 {
+    font-size: var(--px-49);
+}
+
+.ft-px-50 {
+    font-size: var(--px-50);
+}
+
+.ft-px-51 {
+    font-size: var(--px-51);
+}
+
+.ft-px-52 {
+    font-size: var(--px-52);
+}
+
+.ft-px-53 {
+    font-size: var(--px-53);
+}
+
+.ft-px-54 {
+    font-size: var(--px-54);
+}
+
+.ft-px-55 {
+    font-size: var(--px-55);
+}
+
+.ft-px-56 {
+    font-size: var(--px-56);
+}
+
+.ft-px-57 {
+    font-size: var(--px-57);
+}
+
+.ft-px-58 {
+    font-size: var(--px-58);
+}
+
+.ft-px-59 {
+    font-size: var(--px-59);
+}
+
+.ft-px-60 {
+    font-size: var(--px-60);
+}
+
+.ft-px-61 {
+    font-size: var(--px-61);
+}
+
+.ft-px-62 {
+    font-size: var(--px-62);
+}
+
+.ft-px-63 {
+    font-size: var(--px-63);
+}
+
+.ft-px-64 {
+    font-size: var(--px-64);
+}
+
+.ft-px-65 {
+    font-size: var(--px-65);
+}
+
+.ft-px-66 {
+    font-size: var(--px-66);
+}
+
+.ft-px-67 {
+    font-size: var(--px-67);
+}
+
+.ft-px-68 {
+    font-size: var(--px-68);
+}
+
+.ft-px-69 {
+    font-size: var(--px-69);
+}
+
+.ft-px-70 {
+    font-size: var(--px-70);
+}
+
+.ft-px-71 {
+    font-size: var(--px-71);
+}
+
+.ft-px-72 {
+    font-size: var(--px-72);
+}
+
+.ft-px-73 {
+    font-size: var(--px-73);
+}
+
+.ft-px-74 {
+    font-size: var(--px-74);
+}
+
+.ft-px-75 {
+    font-size: var(--px-75);
+}
+
+.ft-px-76 {
+    font-size: var(--px-76);
+}
+
+.ft-px-77 {
+    font-size: var(--px-77);
+}
+
+.ft-px-78 {
+    font-size: var(--px-78);
+}
+
+.ft-px-79 {
+    font-size: var(--px-79);
+}
+
+.ft-px-80 {
+    font-size: var(--px-80);
+}
+
+.ft-px-81 {
+    font-size: var(--px-81);
+}
+
+.ft-px-82 {
+    font-size: var(--px-82);
+}
+
+.ft-px-83 {
+    font-size: var(--px-83);
+}
+
+.ft-px-84 {
+    font-size: var(--px-84);
+}
+
+.ft-px-85 {
+    font-size: var(--px-85);
+}
+
+.ft-px-86 {
+    font-size: var(--px-86);
+}
+
+.ft-px-87 {
+    font-size: var(--px-87);
+}
+
+.ft-px-88 {
+    font-size: var(--px-88);
+}
+
+.ft-px-89 {
+    font-size: var(--px-89);
+}
+
+.ft-px-90 {
+    font-size: var(--px-90);
+}
+
+.ft-px-91 {
+    font-size: var(--px-91);
+}
+
+.ft-px-92 {
+    font-size: var(--px-92);
+}
+
+.ft-px-93 {
+    font-size: var(--px-93);
+}
+
+.ft-px-94 {
+    font-size: var(--px-94);
+}
+
+.ft-px-95 {
+    font-size: var(--px-95);
+}
+
+.ft-px-96 {
+    font-size: var(--px-96);
+}
+
+.ft-px-97 {
+    font-size: var(--px-97);
+}
+
+.ft-px-98 {
+    font-size: var(--px-98);
+}
+
+.ft-px-99 {
+    font-size: var(--px-99);
+}
+
+.ft-px-100 {
+    font-size: var(--px-100);
+}
+
+.txt-c {
+    text-align: center;
+}
+
+.txt-l {
+    text-align: left;
+}
+
+.txt-r {
+    text-align: right;
+}
+
+.txt-start {
+    text-align: start;
+}
+
+.txt-end {
+    text-align: end;
+}
+
+
+
+
 /* griding the layout */
 .container-flex {
     width: 100%;
