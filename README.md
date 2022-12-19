@@ -18,12 +18,12 @@ add one of below tag in head section of html by choice of your method (either of
 
 ## Online Method
 
-`<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hahsanayub/cssuals@v1.0.2/cssuals.css">`
+`<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hahsanayub/cssuals@v1.0.3/cssuals.css">`
 <br />
 <br />
 
 minified version\
-`<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hahsanayub/cssuals@v1.0.2/cssuals.min.css">`
+`<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hahsanayub/cssuals@v1.0.3/cssuals.min.css">`
 <br>
 <br>
 
@@ -38,3 +38,11 @@ https://github.com/hahsanayub/cssuals/archive/refs/tags/v1.0.3.zip\
 
 minified version\
 `<link rel="stylesheet" href="./cssuals-1.0.3/cssuals.min.css">`
+<br />
+<br />
+
+# Documentation
+## Typography
++ ## Font size 
+&emsp; &emsp; &emsp; There is a class `ft-px-1`. it set the the `font-size: 1px;`. From 1 to 100 pixl font-size can be set `ft-px-*` In * replace from 1 to 100 to set font size of text\
+Example: `<p class="ft-px-1"></p>` `<p class="ft-px-2"></p>``<p class="ft-px-3"></p>`......`<p class="ft-px-100"></p>`
