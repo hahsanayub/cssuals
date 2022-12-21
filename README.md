@@ -1,6 +1,10 @@
-<head>
-<link rel="stylesheet" src="./cssuals.css" />
-</head>
+
+<iframe 
+  width="100%"
+  height="100vh"
+  src="http://htmlpreview.github.io/?https://github.com/hahsanayub/cssuals/blob/main/test-cases/index1.html"
+  frameborder="0">
+</iframe>
 # cssuals
 
 The best HTML, CSS, and JavaScript framework for developing responsive projects on the web with less code. By using this framework, JS and CSS code will be decreased. So many resources will be saved after using this framework
@@ -51,7 +55,7 @@ minified version\
 - ## Font size
   &emsp; &emsp; &emsp; There is a class `ft-px-1`. it set the the `font-size: 1px;`. From 1 to 100 pixl font-size can be set `ft-px-*` In \* replace from 1 to 100 to set font size of text\
   Examples:<br /> `<p class="ft-px-1">Text of font size 1px</p>` output:<p class="ft-px-1">Text of font size 1px</p> <br />
-  `<p class="ft-px-2">Text of font size 2px</p>` output: <p class="ft-px-2">Text of font size 2px</p><br />
+  `<p class="ft-px-2">Text of font size 2px</p>` output:<p class="ft-px-2">Text of font size 2px</p><br />
   `<p class="ft-px-3">Text of font size 3px</p>` output: <p class="ft-px-3">Text of font size 3px</p><br />
   ......<br />`<p class="ft-px-100">Text of font size 100px</p>` output: <p class="ft-px-100">Text of font size 100px</p>
   <br />
