@@ -2,7 +2,7 @@
 <iframe 
   width="100%"
   height="100vh"
-  src="http://htmlpreview.github.io/?https://github.com/hahsanayub/cssuals/blob/main/test-cases/index1.html"
+  src="https://htmlpreview.github.io/?https://github.com/hahsanayub/cssuals/blob/main/test-cases/index1.html"
   frameborder="0">
 </iframe>
 # cssuals
