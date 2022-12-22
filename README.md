@@ -1,4 +1,6 @@
 # cssuals
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhahsanayub%2Fcssuals.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhahsanayub%2Fcssuals?ref=badge_shield)
+
 
 The best HTML, CSS, and JavaScript framework for developing responsive projects on the web with less code. By using this framework, JS and CSS code will be decreased. So many resources will be saved after using this framework
 <br />
@@ -86,3 +88,7 @@ minified version\
     `<p class="clr-warning-light">warning-light</p>` Output: <font color="#FEF6DD">warning-light</font><br />
     `<p class="clr-info">info</p>` Output: <font color="#3F8ED0">info</font><br />
     `<p class="clr-info-light">info-light</p>` Output: <font color="#E4EFF9">info-light</font><br />
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhahsanayub%2Fcssuals.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhahsanayub%2Fcssuals?ref=badge_large)
